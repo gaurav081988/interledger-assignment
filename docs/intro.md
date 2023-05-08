@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 
 # Concept and Functionality
 
@@ -16,7 +19,7 @@ Here's a brief overview of the concepts and functionality of the API:
     GET https://icanhazdadjoke.com/
      ```
 
-	 -  Fetch a random dad joke as a Slack message: You can fetch a a random joke formatted for Slack.
+	 -  Fetch a random dad joke as a Slack message: You can fetch a random joke formatted for Slack.
 		 ```
 		 GET https://icanhazdadjoke.com/slack
 	 - Fetch a dad joke: You can fetch a specific dad joke.
@@ -47,6 +50,6 @@ Here's a brief overview of the concepts and functionality of the API:
 	 - [ ] Searching for jokes based on a keyword
 	 - [ ] Retrieving jokes based on their unique ID
 
- - **Responses**: The API returns responses in JSON format. Each joke object contains several properties such as "**id**", "**joke**", "**status**", "**updatedAt**", and "**createdAt**". Developers can use these properties to display the jokes on their applications or websites.
+ - **Responses**: The API returns responses in JSON format. Each joke object contains several properties such as "**id**", "**joke**", "**status**", "**updatedAt**", and "**createdAt**". Developers can use these properties to display jokes on their applications or websites.
 
 Overall, the icanhazdadjoke API is a fun and simple way for developers to access a large database of jokes and integrate them into their applications or websites.

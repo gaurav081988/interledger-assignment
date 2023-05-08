@@ -13,12 +13,12 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <h1 className="hero__title">Interledger Documentation</h1>
-        <p className="hero__subtitle">One-stop solutions</p>
+        <p className="hero__subtitle"><a href="https://interledger.org/about-us/index.html">Who we are?</a></p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            OpenAPI Documentation - 5min ⏱️
+            OpenAPI Documentation
           </Link>
         </div>
       </div>

@@ -1,5 +1,10 @@
+---
+sidebar_position: 3
+---
 
-The OpenAPI Specification for the icanhazdadjoke API search endpoint would look something like this:
+# OpenAPI Specification
+
+The OpenAPI Specification for the **icanhazdadjoke API Search Endpoint** is:
 
 ```
 openapi: 3.0.0

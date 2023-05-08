@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'OUR MISSION',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        The Interledger Foundation is a non-profit advocate for the web, promoting innovation, creativity, and inclusion by advancing open payment standards and technologies that seamlessly connect our global society.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Focus Areas',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Shaping a more equitable web that is open to all relies on prioritizing systems and ideals to work together to advance our collective society. The following are areas in which we are prioritizing our influence.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Financial Inclusion',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Financial inclusion means that any individual has equal access to the same financial services and products that allow them to participate in making and receiving payments. We are building equitable pathways to financial access, fueling inclusive growth across the world.
       </>
     ),
   },
