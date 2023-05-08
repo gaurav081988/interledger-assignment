@@ -1,3 +1,5 @@
+# Concept and Functionality
+
 icanhazdadjoke is a RESTful API that allows developers to programmatically access a large database of jokes. Here's a brief overview of the concepts and functionality of the API:
 
 1. Endpoints: The API has a single endpoint, which is https://icanhazdadjoke.com/. Developers can access the API using various HTTP methods such as GET, POST, and PUT.
