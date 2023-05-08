@@ -1,13 +1,21 @@
 
 # Tutorial
 
-The icanhazdadjoke API endpoint is a great resource for developers who want to access a large collection of dad jokes.
+The icanhazdadjoke API endpoint is a great resource for developers who want to access a large collection of dad jokes. This tutorial provides the steps to access the API endpoint.
+
+## Prerequisites:
+
+Windows OS: 64-bit
+
+Working Internet connection
+
+## Procedure
 
 Perform the following steps to access the API using Python:
 
 **Step 1: Set up a Python Environment**
 
-Before you begin, you need to set up a Python environment on your computer. We recommend using Python 3.x, which can be downloaded and installed from the official [Python website](https://www.python.org/downloads/). Once Python is installed, you can proceed to the next step.
+Set up a Python environment on your computer. It is recommended to use Python 3.x, which can be downloaded and installed from the official [Python website](https://www.python.org/downloads/). Once Python is installed, you can proceed to the next step.
 
 **Step 2: Install Required Libraries**
 
